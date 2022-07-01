@@ -22,26 +22,13 @@ Scrum работа в команде, Docker, Git, SQL, работа с REST API
 
 LeaderTask Web [@LeaderTask](https://github.com/leadertask)
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Мои пакеты на pub.dev:
 
 [css-units](https://pub.dev/packages/css_units) - поддержка vmin, vmax, vw, vh, rem в виджетах
 
 ### Мои приложения на google play:
 
-[G2048](https://play.google.com/store/apps/details?id=ru.simpopuska.game2048) - игра-головоломка 2048 - соединяй одинаковые плитки, набери максимум очков
+[G2048](https://play.google.com/store/apps/details?id=ru.simpopuska.game2048) - игра-головоломка 2048 - соединяй одинаковые плитки, набери максимум очков (разработано на Flutter)
 
 ### Пишу статьи по разработке:
 
