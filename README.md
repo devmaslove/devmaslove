@@ -20,8 +20,12 @@ Scrum работа в команде, Docker, Git, SQL, работа с REST API
 
 #### Участвовал в Open Source как контрибьютер
 
+Приложения:
 - [WinMerge](https://winmerge.org/)
 - [SciTE](https://www.scintilla.org/SciTE.html) - меня можно найти в [контрибьютерах](https://www.scintilla.org/ScintillaHistory.html) как Dmitry Maslov
+
+Пакеты:
+- [Directus SDK for Dart/Flutter](https://github.com/apstanisic/directus-dart)
 
 #### Работаю сейчас над
 
