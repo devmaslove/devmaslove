@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Dmitry Maslov
 
+![Relative date](https://img.shields.io/date/493084800?label=%D0%A0%D0%BE%D0%B4%D0%B8%D0%BB%D1%81%D1%8F&style=for-the-badge)
+
 #### Я разработчик 🇷🇺
 
 ![C++](https://img.shields.io/badge/c++-15%20лет-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
