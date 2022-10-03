@@ -43,7 +43,8 @@ LeaderTask Web [@LeaderTask](https://github.com/leadertask)
 
 ### Пишу статьи по разработке:
 
-- [Flutter package - пакет с нуля до публикации в pub.dev](https://zen.yandex.ru/media/id/5b9b6b8c1ad72800aeaa2614/6286903d3e78be4dd618c1cf)
-- [Flutter: Как сделать Singleton](https://zen.yandex.ru/media/id/5b9b6b8c1ad72800aeaa2614/629edc425ed61e62b405555a)
-- [Flutter: Делаем Swipe Detector](https://zen.yandex.ru/media/id/5b9b6b8c1ad72800aeaa2614/62944bea0afb373daf1e21fc)
-- [Flutter: Локализация приложения с помощью пакета easy_localization](https://zen.yandex.ru/media/id/5b9b6b8c1ad72800aeaa2614/62762dd27854fa6bffccaefa)
+- [Flutter package - пакет с нуля до публикации в pub.dev](https://dzen.ru/media/id/5b9b6b8c1ad72800aeaa2614/6286903d3e78be4dd618c1cf)
+- [Flutter: Как сделать Singleton](https://dzen.ru/media/id/5b9b6b8c1ad72800aeaa2614/629edc425ed61e62b405555a)
+- [Flutter: Делаем Swipe Detector](https://dzen.ru/media/id/5b9b6b8c1ad72800aeaa2614/62944bea0afb373daf1e21fc)
+- [Flutter: Локализация приложения с помощью пакета easy_localization](https://dzen.ru/media/id/5b9b6b8c1ad72800aeaa2614/62762dd27854fa6bffccaefa)
+- [Null-Aware операторы в Dart](https://dzen.ru/media/id/5b9b6b8c1ad72800aeaa2614/6339d7553c55cc1557e4088c)
