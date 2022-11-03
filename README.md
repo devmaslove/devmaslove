@@ -8,13 +8,13 @@
 
 Windows, WinAPI, MFC, многопоточность
 
-![Dart](https://img.shields.io/badge/dart-1%20год-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-2%20года-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-Flutter, Bloc, Provider
+Flutter, Bloc, Provider, Dio
 
-![JavaScript](https://img.shields.io/badge/javascript-5%20месяцев-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-1%20год-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Node.JS, Express.js, VueJS, VueX, Tailwind.css
+Node.JS, Express.js, VueJS, VueX, Tailwind.css, Axios
 
 #### Умею
 
@@ -35,6 +35,7 @@ LeaderTask Web [@LeaderTask](https://github.com/leadertask)
 
 ### Мои пакеты на pub.dev:
 
+- [wstore](https://pub.dev/packages/wstore) - библиотека для state management во Flutter
 - [css-units](https://pub.dev/packages/css_units) - поддержка vmin, vmax, vw, vh, rem в виджетах
 
 ### Мои приложения на google play:
