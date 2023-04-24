@@ -12,7 +12,7 @@ Windows, WinAPI, MFC, многопоточность
 
 Flutter, Bloc, Provider, Dio
 
-![JavaScript](https://img.shields.io/badge/javascript-1%20год-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-2%20года-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 Node.JS, Express.js, VueJS, VueX, Tailwind.css, Axios
 
