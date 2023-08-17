@@ -14,11 +14,11 @@ Flutter, Bloc, Provider, Dio
 
 ![JavaScript](https://img.shields.io/badge/javascript-2%20года-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Node.JS, Express.js, VueJS, VueX, Tailwind.css, Axios
+VueJS, VueX, Pinia, Tailwind.css, Axios, Node.JS, Express.js
 
 #### Умею
 
-Scrum работа в команде, Docker, Git, SQL, работа с REST API, JSON, Figma, скрипты (в том числе LUA), ООП, SOLID, Code Style, клиент-серверные приложения, коммерческая разработка, проектирование, разработка архитектуры приложения, руководить разработкой и всякое другое...
+Scrum работа в команде, Docker, Git, SQL, работа с REST API, JSON, Figma, скрипты всякие, ООП, SOLID, Code Style, клиент-серверные приложения, коммерческая разработка, проектирование, разработка архитектуры приложения, руководить разработкой и всякое другое...
 
 #### Участвовал в Open Source как контрибьютер
 
@@ -31,7 +31,8 @@ Scrum работа в команде, Docker, Git, SQL, работа с REST API
 
 #### Работаю сейчас над
 
-LeaderTask Web [@LeaderTask](https://github.com/leadertask)
+LeaderTask [@LeaderTask](https://github.com/leadertask)
+[Пространства](https://www.unityspace.ru/)
 
 ### Мои пакеты на pub.dev:
 
