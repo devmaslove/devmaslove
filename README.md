@@ -31,8 +31,8 @@ Scrum работа в команде, Docker, Git, SQL, работа с REST API
 
 #### Работаю сейчас над
 
-LeaderTask [@LeaderTask](https://github.com/leadertask)
-[Пространства](https://www.unityspace.ru/)
+- LeaderTask [@LeaderTask](https://github.com/leadertask)
+- [Пространства](https://www.unityspace.ru/)
 
 ### Мои пакеты на pub.dev:
 
